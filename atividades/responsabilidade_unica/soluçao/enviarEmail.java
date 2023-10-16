@@ -1,5 +1,5 @@
 public class enviarEmail{
-    public void enviarConfirmacao {
+    public void enviarEmailConfirmacao {
         
     }
 
